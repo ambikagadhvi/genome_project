@@ -1,0 +1,574 @@
+
+
+Max count value for this genome window is: 3
+ 9-mer Patterns: ['CAAGGCCTT', 'AAGGCCTTG']
+-----------------------------------------
+Indices for genome window #28 and pattern :CAAGGCCTT
+-----------------------------------------
+[24]
+
+-----------------------------------------
+Indices for genome window #28 and pattern :AAGGCCTTG
+-----------------------------------------
+[25, 288]
+
+Max count value for this genome window is: 3
+ 9-mer Patterns: ['AAATAAAAA']
+-----------------------------------------
+Indices for genome window #100 and pattern :AAATAAAAA
+-----------------------------------------
+[295, 345, 483]
+
+Max count value for this genome window is: 3
+ 9-mer Patterns: ['CGGCTTTTT', 'AAAAAGCCG']
+-----------------------------------------
+Indices for genome window #294 and pattern :CGGCTTTTT
+-----------------------------------------
+[8, 170]
+
+-----------------------------------------
+Indices for genome window #294 and pattern :AAAAAGCCG
+-----------------------------------------
+[151]
+
+Max count value for this genome window is: 4
+ 9-mer Patterns: ['AAGCATGAT', 'AGCATGATC', 'GCATGATCA', 'CATGATCAT', 'ATGATCATG']
+-----------------------------------------
+Indices for genome window #303 and pattern :AAGCATGAT
+-----------------------------------------
+[295, 341, 363, 409]
+
+-----------------------------------------
+Indices for genome window #303 and pattern :AGCATGATC
+-----------------------------------------
+[296, 342, 364, 410]
+
+-----------------------------------------
+Indices for genome window #303 and pattern :GCATGATCA
+-----------------------------------------
+[297, 343, 365, 411]
+
+-----------------------------------------
+Indices for genome window #303 and pattern :CATGATCAT
+-----------------------------------------
+[298, 344, 366]
+
+-----------------------------------------
+Indices for genome window #303 and pattern :ATGATCATG
+-----------------------------------------
+[299]
+
+Max count value for this genome window is: 5
+ 9-mer Patterns: ['ATGATCAAG', 'CTTGATCAT']
+-----------------------------------------
+Indices for genome window #304 and pattern :ATGATCAAG
+-----------------------------------------
+[13, 394]
+
+-----------------------------------------
+Indices for genome window #304 and pattern :CTTGATCAT
+-----------------------------------------
+[283, 354, 411]
+
+Max count value for this genome window is: 3
+ 9-mer Patterns: ['GCGCAAAAA', 'TTTTTGCGC']
+-----------------------------------------
+Indices for genome window #306 and pattern :GCGCAAAAA
+-----------------------------------------
+[116, 395]
+
+-----------------------------------------
+Indices for genome window #306 and pattern :TTTTTGCGC
+-----------------------------------------
+[390]
+
+Max count value for this genome window is: 3
+ 9-mer Patterns: ['TCACCAAGC', 'GCTTGGTGA']
+-----------------------------------------
+Indices for genome window #336 and pattern :TCACCAAGC
+-----------------------------------------
+[25]
+
+-----------------------------------------
+Indices for genome window #336 and pattern :GCTTGGTGA
+-----------------------------------------
+[276, 452]
+
+Max count value for this genome window is: 3
+ 9-mer Patterns: ['ATGCATAAA', 'TTTATGCAT']
+-----------------------------------------
+Indices for genome window #355 and pattern :ATGCATAAA
+-----------------------------------------
+[219, 383]
+
+-----------------------------------------
+Indices for genome window #355 and pattern :TTTATGCAT
+-----------------------------------------
+[380]
+
+Max count value for this genome window is: 3
+ 9-mer Patterns: ['TTTGCTGGC', 'GCCAGCAAA']
+-----------------------------------------
+Indices for genome window #411 and pattern :TTTGCTGGC
+-----------------------------------------
+[38, 458]
+
+-----------------------------------------
+Indices for genome window #411 and pattern :GCCAGCAAA
+-----------------------------------------
+[159]
+
+Max count value for this genome window is: 3
+ 9-mer Patterns: ['CAAATTTGT', 'ACAAATTTG']
+-----------------------------------------
+Indices for genome window #693 and pattern :CAAATTTGT
+-----------------------------------------
+[31, 46]
+
+-----------------------------------------
+Indices for genome window #693 and pattern :ACAAATTTG
+-----------------------------------------
+[45]
+
+Max count value for this genome window is: 4
+ 9-mer Patterns: ['TGGTCCCAT', 'ATGGGACCA']
+-----------------------------------------
+Indices for genome window #774 and pattern :TGGTCCCAT
+-----------------------------------------
+[332, 343, 386]
+
+-----------------------------------------
+Indices for genome window #774 and pattern :ATGGGACCA
+-----------------------------------------
+[363]
+
+Max count value for this genome window is: 3
+ 9-mer Patterns: ['TCGTCGTGA', 'GAAGGTGGT']
+-----------------------------------------
+Indices for genome window #956 and pattern :TCGTCGTGA
+-----------------------------------------
+[55, 100, 400]
+
+-----------------------------------------
+Indices for genome window #956 and pattern :GAAGGTGGT
+-----------------------------------------
+[407, 425, 491]
+
+Max count value for this genome window is: 3
+ 9-mer Patterns: ['GCAGCAACA']
+-----------------------------------------
+Indices for genome window #1011 and pattern :GCAGCAACA
+-----------------------------------------
+[170, 383, 431]
+
+Max count value for this genome window is: 3
+ 9-mer Patterns: ['AAAATAATT', 'AAATAATTT', 'AAATTATTT', 'AATTATTTT']
+-----------------------------------------
+Indices for genome window #1021 and pattern :AAAATAATT
+-----------------------------------------
+[181, 435]
+
+-----------------------------------------
+Indices for genome window #1021 and pattern :AAATAATTT
+-----------------------------------------
+[182, 436]
+
+-----------------------------------------
+Indices for genome window #1021 and pattern :AAATTATTT
+-----------------------------------------
+[330]
+
+-----------------------------------------
+Indices for genome window #1021 and pattern :AATTATTTT
+-----------------------------------------
+[331]
+
+Max count value for this genome window is: 3
+ 9-mer Patterns: ['ATTGGTAAA', 'TTTACCAAT']
+-----------------------------------------
+Indices for genome window #1065 and pattern :ATTGGTAAA
+-----------------------------------------
+[8, 22]
+
+-----------------------------------------
+Indices for genome window #1065 and pattern :TTTACCAAT
+-----------------------------------------
+[150]
+
+Max count value for this genome window is: 3
+ 9-mer Patterns: ['ACAAATTTG', 'CAAATTTGT']
+-----------------------------------------
+Indices for genome window #1086 and pattern :ACAAATTTG
+-----------------------------------------
+[258, 273]
+
+-----------------------------------------
+Indices for genome window #1086 and pattern :CAAATTTGT
+-----------------------------------------
+[259]
+
+Max count value for this genome window is: 4
+ 9-mer Patterns: ['TTTTGATTT']
+-----------------------------------------
+Indices for genome window #1132 and pattern :TTTTGATTT
+-----------------------------------------
+[246, 253, 260, 267, 274, 281, 288]
+
+Max count value for this genome window is: 3
+ 9-mer Patterns: ['AATCGATTG', 'CAATCGATT']
+-----------------------------------------
+Indices for genome window #1246 and pattern :AATCGATTG
+-----------------------------------------
+[128, 422]
+
+-----------------------------------------
+Indices for genome window #1246 and pattern :CAATCGATT
+-----------------------------------------
+[421]
+
+Max count value for this genome window is: 6
+ 9-mer Patterns: ['TTGCGGATG', 'TGCGGATGT', 'GCGGATGTT', 'CGGATGTTA', 'GGATGTTAT', 'GATGTTATT']
+-----------------------------------------
+Indices for genome window #1408 and pattern :TTGCGGATG
+-----------------------------------------
+[426, 438, 450, 462, 474, 486]
+
+-----------------------------------------
+Indices for genome window #1408 and pattern :TGCGGATGT
+-----------------------------------------
+[427, 439, 451, 463, 475, 487]
+
+-----------------------------------------
+Indices for genome window #1408 and pattern :GCGGATGTT
+-----------------------------------------
+[428, 440, 452, 464, 476, 488]
+
+-----------------------------------------
+Indices for genome window #1408 and pattern :CGGATGTTA
+-----------------------------------------
+[429, 441, 453, 465, 477, 489]
+
+-----------------------------------------
+Indices for genome window #1408 and pattern :GGATGTTAT
+-----------------------------------------
+[430, 442, 454, 466, 478, 490]
+
+-----------------------------------------
+Indices for genome window #1408 and pattern :GATGTTATT
+-----------------------------------------
+[431, 443, 455, 467, 479, 491]
+
+Max count value for this genome window is: 4
+ 9-mer Patterns: ['CCTCCCCCT', 'CCCCTTATA', 'TATAAGGGG', 'AGGGGGAGG']
+-----------------------------------------
+Indices for genome window #1465 and pattern :CCTCCCCCT
+-----------------------------------------
+[229, 327, 425]
+
+-----------------------------------------
+Indices for genome window #1465 and pattern :CCCCTTATA
+-----------------------------------------
+[233, 331, 429]
+
+-----------------------------------------
+Indices for genome window #1465 and pattern :TATAAGGGG
+-----------------------------------------
+[238]
+
+-----------------------------------------
+Indices for genome window #1465 and pattern :AGGGGGAGG
+-----------------------------------------
+[437]
+
+Max count value for this genome window is: 4
+ 9-mer Patterns: ['ATAAACAAT']
+-----------------------------------------
+Indices for genome window #1533 and pattern :ATAAACAAT
+-----------------------------------------
+[118, 133, 148, 164]
+
+Max count value for this genome window is: 5
+ 9-mer Patterns: ['GTAAGTCAG', 'TAAGTCAGG', 'AAGTCAGGT', 'AGTCAGGTA', 'GTCAGGTAA', 'TCAGGTAAG']
+-----------------------------------------
+Indices for genome window #1592 and pattern :GTAAGTCAG
+-----------------------------------------
+[66, 75, 84, 93, 102]
+
+-----------------------------------------
+Indices for genome window #1592 and pattern :TAAGTCAGG
+-----------------------------------------
+[67, 76, 85, 94, 103]
+
+-----------------------------------------
+Indices for genome window #1592 and pattern :AAGTCAGGT
+-----------------------------------------
+[68, 77, 86, 95, 104]
+
+-----------------------------------------
+Indices for genome window #1592 and pattern :AGTCAGGTA
+-----------------------------------------
+[69, 78, 87, 96, 105]
+
+-----------------------------------------
+Indices for genome window #1592 and pattern :GTCAGGTAA
+-----------------------------------------
+[70, 79, 88, 97, 106]
+
+-----------------------------------------
+Indices for genome window #1592 and pattern :TCAGGTAAG
+-----------------------------------------
+[71, 80, 89, 98, 107]
+
+Max count value for this genome window is: 3
+ 9-mer Patterns: ['TTTGCATTT', 'TTGCATTTT']
+-----------------------------------------
+Indices for genome window #1638 and pattern :TTTGCATTT
+-----------------------------------------
+[81, 284, 314]
+
+-----------------------------------------
+Indices for genome window #1638 and pattern :TTGCATTTT
+-----------------------------------------
+[82, 285, 315]
+
+Max count value for this genome window is: 3
+ 9-mer Patterns: ['TCCACACAA']
+-----------------------------------------
+Indices for genome window #1639 and pattern :TCCACACAA
+-----------------------------------------
+[382, 421, 439]
+
+Max count value for this genome window is: 3
+ 9-mer Patterns: ['TGATTTTCA']
+-----------------------------------------
+Indices for genome window #1641 and pattern :TGATTTTCA
+-----------------------------------------
+[41, 75, 120]
+
+Max count value for this genome window is: 3
+ 9-mer Patterns: ['CAAAACCCT']
+-----------------------------------------
+Indices for genome window #1664 and pattern :CAAAACCCT
+-----------------------------------------
+[183, 242, 435]
+
+Max count value for this genome window is: 3
+ 9-mer Patterns: ['AAATGAAAT', 'ATTTCATTT']
+-----------------------------------------
+Indices for genome window #1687 and pattern :AAATGAAAT
+-----------------------------------------
+[7]
+
+-----------------------------------------
+Indices for genome window #1687 and pattern :ATTTCATTT
+-----------------------------------------
+[74, 434]
+
+Max count value for this genome window is: 3
+ 9-mer Patterns: ['AAACTCAAA']
+-----------------------------------------
+Indices for genome window #1753 and pattern :AAACTCAAA
+-----------------------------------------
+[45, 249, 379]
+
+Max count value for this genome window is: 3
+ 9-mer Patterns: ['CGTTTAAAC', 'GTTTAAACG']
+-----------------------------------------
+Indices for genome window #1776 and pattern :CGTTTAAAC
+-----------------------------------------
+[49, 434]
+
+-----------------------------------------
+Indices for genome window #1776 and pattern :GTTTAAACG
+-----------------------------------------
+[435]
+
+Max count value for this genome window is: 3
+ 9-mer Patterns: ['ACAATATTG', 'CAATATTGT']
+-----------------------------------------
+Indices for genome window #1778 and pattern :ACAATATTG
+-----------------------------------------
+[39]
+
+-----------------------------------------
+Indices for genome window #1778 and pattern :CAATATTGT
+-----------------------------------------
+[40, 79]
+
+Max count value for this genome window is: 3
+ 9-mer Patterns: ['GCTTTAAAT', 'ATTTAAAGC']
+-----------------------------------------
+Indices for genome window #1785 and pattern :GCTTTAAAT
+-----------------------------------------
+[110, 257]
+
+-----------------------------------------
+Indices for genome window #1785 and pattern :ATTTAAAGC
+-----------------------------------------
+[264]
+
+Max count value for this genome window is: 3
+ 9-mer Patterns: ['AATTGCCTA', 'TAGGCAATT']
+-----------------------------------------
+Indices for genome window #1843 and pattern :AATTGCCTA
+-----------------------------------------
+[35, 76]
+
+-----------------------------------------
+Indices for genome window #1843 and pattern :TAGGCAATT
+-----------------------------------------
+[46]
+
+Max count value for this genome window is: 7
+ 9-mer Patterns: ['TTCTGGTTC', 'TCTGGTTCT', 'CTGGTTCTG', 'TGGTTCTGG', 'GGTTCTGGT', 'GTTCTGGTT']
+-----------------------------------------
+Indices for genome window #1844 and pattern :TTCTGGTTC
+-----------------------------------------
+[76, 82, 88, 94, 100, 106, 112, 118, 124, 130, 136, 142, 148, 154]
+
+-----------------------------------------
+Indices for genome window #1844 and pattern :TCTGGTTCT
+-----------------------------------------
+[77, 83, 89, 95, 101, 107, 113, 119, 125, 131, 137, 143, 149, 155]
+
+-----------------------------------------
+Indices for genome window #1844 and pattern :CTGGTTCTG
+-----------------------------------------
+[78, 84, 90, 96, 102, 108, 114, 120, 126, 132, 138, 144, 150, 156]
+
+-----------------------------------------
+Indices for genome window #1844 and pattern :TGGTTCTGG
+-----------------------------------------
+[79, 85, 91, 97, 103, 109, 115, 121, 127, 133, 139, 145, 151, 157]
+
+-----------------------------------------
+Indices for genome window #1844 and pattern :GGTTCTGGT
+-----------------------------------------
+[80, 86, 92, 98, 104, 110, 116, 122, 128, 134, 140, 146, 152, 158]
+
+-----------------------------------------
+Indices for genome window #1844 and pattern :GTTCTGGTT
+-----------------------------------------
+[81, 87, 93, 99, 105, 111, 117, 123, 129, 135, 141, 147, 153]
+
+Max count value for this genome window is: 3
+ 9-mer Patterns: ['ACGACTTTT', 'AAAAGTCGT']
+-----------------------------------------
+Indices for genome window #1881 and pattern :ACGACTTTT
+-----------------------------------------
+[142, 364]
+
+-----------------------------------------
+Indices for genome window #1881 and pattern :AAAAGTCGT
+-----------------------------------------
+[284]
+
+Max count value for this genome window is: 3
+ 9-mer Patterns: ['GGTCACAGC', 'GTCACAGCC', 'TCACAGCCT', 'CACAGCCTT', 'ACAGCCTTG', 'CAAGGCTGT', 'AAGGCTGTG', 'AGGCTGTGA', 'GGCTGTGAC', 'GCTGTGACC']
+-----------------------------------------
+Indices for genome window #1906 and pattern :GGTCACAGC
+-----------------------------------------
+[3, 441]
+
+-----------------------------------------
+Indices for genome window #1906 and pattern :GTCACAGCC
+-----------------------------------------
+[4, 442]
+
+-----------------------------------------
+Indices for genome window #1906 and pattern :TCACAGCCT
+-----------------------------------------
+[5, 443]
+
+-----------------------------------------
+Indices for genome window #1906 and pattern :CACAGCCTT
+-----------------------------------------
+[6, 444]
+
+-----------------------------------------
+Indices for genome window #1906 and pattern :ACAGCCTTG
+-----------------------------------------
+[7, 445]
+
+-----------------------------------------
+Indices for genome window #1906 and pattern :CAAGGCTGT
+-----------------------------------------
+[422]
+
+-----------------------------------------
+Indices for genome window #1906 and pattern :AAGGCTGTG
+-----------------------------------------
+[423]
+
+-----------------------------------------
+Indices for genome window #1906 and pattern :AGGCTGTGA
+-----------------------------------------
+[424]
+
+-----------------------------------------
+Indices for genome window #1906 and pattern :GGCTGTGAC
+-----------------------------------------
+[425]
+
+-----------------------------------------
+Indices for genome window #1906 and pattern :GCTGTGACC
+-----------------------------------------
+[426]
+
+Max count value for this genome window is: 3
+ 9-mer Patterns: ['TCACCAATC']
+-----------------------------------------
+Indices for genome window #1907 and pattern :TCACCAATC
+-----------------------------------------
+[228, 282, 420]
+
+Max count value for this genome window is: 4
+ 9-mer Patterns: ['AAAATATTT', 'AAATATTTT']
+-----------------------------------------
+Indices for genome window #2017 and pattern :AAAATATTT
+-----------------------------------------
+[359, 462]
+
+-----------------------------------------
+Indices for genome window #2017 and pattern :AAATATTTT
+-----------------------------------------
+[360, 463]
+
+Max count value for this genome window is: 3
+ 9-mer Patterns: ['TTTGGTTTC']
+-----------------------------------------
+Indices for genome window #2058 and pattern :TTTGGTTTC
+-----------------------------------------
+[106, 349, 472]
+
+Max count value for this genome window is: 11
+ 9-mer Patterns: ['ACAGCAACA', 'CAGCAACAG', 'AGCAACAGC', 'GCAACAGCA', 'CAACAGCAA', 'AACAGCAAC']
+-----------------------------------------
+Indices for genome window #2146 and pattern :ACAGCAACA
+-----------------------------------------
+[61, 67, 73, 79, 85, 91, 97, 103, 109, 115, 121, 127, 133, 139, 145, 151, 157, 163, 169, 175, 181, 187]
+
+-----------------------------------------
+Indices for genome window #2146 and pattern :CAGCAACAG
+-----------------------------------------
+[62, 68, 74, 80, 86, 92, 98, 104, 110, 116, 122, 128, 134, 140, 146, 152, 158, 164, 170, 176, 182, 188]
+
+-----------------------------------------
+Indices for genome window #2146 and pattern :AGCAACAGC
+-----------------------------------------
+[63, 69, 75, 81, 87, 93, 99, 105, 111, 117, 123, 129, 135, 141, 147, 153, 159, 165, 171, 177, 183, 189]
+
+-----------------------------------------
+Indices for genome window #2146 and pattern :GCAACAGCA
+-----------------------------------------
+[64, 70, 76, 82, 88, 94, 100, 106, 112, 118, 124, 130, 136, 142, 148, 154, 160, 166, 172, 178, 184, 190]
+
+-----------------------------------------
+Indices for genome window #2146 and pattern :CAACAGCAA
+-----------------------------------------
+[65, 71, 77, 83, 89, 95, 101, 107, 113, 119, 125, 131, 137, 143, 149, 155, 161, 167, 173, 179, 185]
+
+-----------------------------------------
+Indices for genome window #2146 and pattern :AACAGCAAC
+-----------------------------------------
+[66, 72, 78, 84, 90, 96, 102, 108, 114, 120, 126, 132, 138, 144, 150, 156, 162, 168, 174, 180, 186]
